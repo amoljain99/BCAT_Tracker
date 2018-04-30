@@ -116,29 +116,35 @@
     <Folder Include="Resources\" />
   </ItemGroup>
   <ItemGroup>
-    <InterfaceDefinition Include="LaunchScreen.storyboard" />
     <InterfaceDefinition Include="Main.storyboard" />
     <InterfaceDefinition Include="Views\MainView.xib" />
+    <InterfaceDefinition Include="Views\CEDetailViewController.xib" />
+    <InterfaceDefinition Include="Views\CETableViewController.xib" />
+    <InterfaceDefinition Include="Views\CEViewController.xib" />
+    <InterfaceDefinition Include="Views\LoginViewController.xib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
-    <None Include="ToDo-MvvmCross\_ iOS UI.txt" />
     <None Include="AppDelegate.cs.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="ViewController.cs" />
-    <Compile Include="ViewController.designer.cs">
-      <DependentUpon>ViewController.cs</DependentUpon>
-    </Compile>
     <Compile Include="Views\MainView.designer.cs" />
     <Compile Include="Views\MainView.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
     <Compile Include="DebugTrace.cs" />
+    <Compile Include="Views\CEDetailViewController.cs" />
+    <Compile Include="Views\CEDetailViewController.designer.cs" />
+    <Compile Include="Views\CETableViewController.cs" />
+    <Compile Include="Views\CETableViewController.designer.cs" />
+    <Compile Include="Views\CEViewController.cs" />
+    <Compile Include="Views\CEViewController.designer.cs" />
+    <Compile Include="Views\LoginViewController.cs" />
+    <Compile Include="Views\LoginViewController.designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BCAT_Tracker.Core\BCAT_Tracker.Core.csproj">

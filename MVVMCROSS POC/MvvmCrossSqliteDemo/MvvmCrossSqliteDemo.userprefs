@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{31DC156F-C51D-4209-8A18-33BF00275228}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCrossSqliteDemo.iOS/Setup.cs">
+    <Files>
+      <File FileName="MvvmCrossSqliteDemo.Core/MyClass.cs" Line="1" Column="1" />
+      <File FileName="MvvmCrossSqliteDemo.iOS/AppDelegate.cs.txt" Line="1" Column="1" />
+      <File FileName="MvvmCrossSqliteDemo.iOS/AppDelegate.cs" Line="21" Column="32" />
+      <File FileName="MvvmCrossSqliteDemo.iOS/Setup.cs" Line="23" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MvvmCrossSqliteDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.06AD653E-700E-4C26-A38B-42613A14BFD7" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
