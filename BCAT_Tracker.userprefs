@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F115A0D1-5CDE-4039-95E6-5547EB0EDD9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.BCAT__Tracker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CC5EABDE-1991-43F3-AF37-5C03C0537D14" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BCAT_Tracker.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="BCAT_Tracker.iOS/AppDelegate.cs" Line="9" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

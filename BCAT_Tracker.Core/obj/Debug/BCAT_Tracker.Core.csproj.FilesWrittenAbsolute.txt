@@ -1,0 +1,9 @@
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/BCAT_Tracker.Core.pdb
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/BCAT_Tracker.Core.dll
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/obj/Debug/BCAT_Tracker.Core.dll
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/obj/Debug/BCAT_Tracker.Core.pdb
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/MvvmCross.Core.dll
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/neelamc23/BCAT_Tracker/BCAT_Tracker.Core/bin/Debug/MvvmCross.Localization.dll
