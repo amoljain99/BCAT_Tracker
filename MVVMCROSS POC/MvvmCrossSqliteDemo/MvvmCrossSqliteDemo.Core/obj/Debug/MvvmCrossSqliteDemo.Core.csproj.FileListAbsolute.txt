@@ -1,0 +1,13 @@
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCrossSqliteDemo.Core.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCrossSqliteDemo.Core.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Binding.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Core.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Platform.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Platform.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Core.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Binding.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\bin\Debug\MvvmCross.Localization.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\obj\Debug\MvvmCrossSqliteDemo.Core.csprojResolveAssemblyReference.cache
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\obj\Debug\MvvmCrossSqliteDemo.Core.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\MvvmCrossSqliteDemo\MvvmCrossSqliteDemo.Core\obj\Debug\MvvmCrossSqliteDemo.Core.pdb

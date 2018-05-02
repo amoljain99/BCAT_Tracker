@@ -4,7 +4,7 @@ using MvvmCross.iOS.Views.Presenters.Attributes;
 
 namespace BCAT_Tracker.iOS.Views
 {
-    [MvxRootPresentation(WrapInNavigationController = true)]
+ 
     public partial class MainView : MvxViewController
     {
         public MainView() : base("MainView", null)

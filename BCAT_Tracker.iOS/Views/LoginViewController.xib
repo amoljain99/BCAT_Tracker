@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
@@ -13,6 +13,10 @@
             <connections>
                 <outlet property="view" destination="2" id="RRd-Eg-VrN"/>
                 <outlet property="viewNote" destination="146" id="name-outlet-146"/>
+                <outlet property="txtUserName" destination="131" id="name-outlet-131"/>
+                <outlet property="txtPassword" destination="134" id="name-outlet-134"/>
+                <outlet property="btnSubmit" destination="142" id="name-outlet-142"/>
+                <outlet property="imgLogo" destination="8dz-v5-3dR" id="name-outlet-8dz-v5-3dR"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
@@ -134,27 +138,6 @@
         </view>
     </objects>
     <resources>
-        <image name="add-aba-hours-icon.png" width="55" height="54"/>
-        <image name="add-supervision-meeting-icon.png" width="57" height="54"/>
-        <image name="back-icon.png" width="41" height="70"/>
-        <image name="calendar-icon.png" width="38" height="43"/>
-        <image name="certificate-icon.png" width="113" height="144"/>
-        <image name="clock-icon.png" width="44" height="44"/>
-        <image name="continuing-education-icon.png" width="48" height="30"/>
-        <image name="dashboard-icon.png" width="78" height="69"/>
-        <image name="down-arrow-icon.png" width="30" height="17"/>
-        <image name="edit-icon.png" width="21" height="20"/>
-        <image name="information-icon.png" width="15" height="35"/>
-        <image name="logo.png" width="452" height="450"/>
-        <image name="logout-icon.png" width="83" height="63"/>
-        <image name="menu-icon.png" width="72" height="49"/>
-        <image name="next-arrow-icon.png" width="14" height="24"/>
-        <image name="password-icon.png" width="40" height="50"/>
-        <image name="progress-icon.png" width="74" height="41"/>
-        <image name="set-reminder-icon.png" width="75" height="69"/>
-        <image name="settings-icon.png" width="63" height="63"/>
-        <image name="tick-icon.png" width="39" height="29"/>
-        <image name="upload-forms-icons.png" width="66" height="51"/>
         <image name="username-icon.png" width="43" height="49"/>
         <image name="view-edit-supervisors-icon.png" width="66" height="68"/>
     </resources>

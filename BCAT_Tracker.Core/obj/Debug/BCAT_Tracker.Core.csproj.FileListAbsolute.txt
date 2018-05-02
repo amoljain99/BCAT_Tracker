@@ -1,0 +1,13 @@
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\BCAT_Tracker.Core.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Binding.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Core.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Platform.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Platform.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Core.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Binding.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\MvvmCross.Localization.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\obj\Debug\BCAT_Tracker.Core.csprojResolveAssemblyReference.cache
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\obj\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\obj\Debug\BCAT_Tracker.Core.pdb
