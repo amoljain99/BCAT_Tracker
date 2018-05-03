@@ -15,9 +15,9 @@ namespace BCAT_Tracker.iOS.Views
         {
             base.ViewDidLoad();
 
-            var set = this.CreateBindingSet<MainView, Core.ViewModels.MainViewModel>();
-            set.Bind(TextField).To(vm => vm.Text);
-            set.Bind(Button).To(vm => vm.ResetTextCommand);
+            var set = this.CreateBindingSet<MainView, Core.ViewModels.LoginViewModel>();
+            //set.Bind(TextField).To(vm => vm.Text);
+            //set.Bind(Button).To(vm => vm.ResetTextCommand);
             set.Apply();
         }
     }

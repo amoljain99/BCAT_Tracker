@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using MvvmCross.Base;
+using System.Collections.Generic;
 
 namespace BCAT_Tracker.Core.Models
 {
@@ -7,4 +8,7 @@ namespace BCAT_Tracker.Core.Models
         void Save(Logins item); 
         Logins Load();
     }
+
+    public interface IMvxTextSerializers : IMvxTextSerializer
+    { }
 }

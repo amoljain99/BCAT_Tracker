@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.crosscore.3.1.1-beta2\lib\netcore45\cirrious.crosscore.dll" HashGuid="94b97644-9c18-3574-02c4-569339cacebe" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.crosscore.3.1.1-beta2\lib\netcore45\cirrious.crosscore.windowsstore.dll" HashGuid="77f2feea-5b5a-3130-eb14-17eab58074fa" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.1.1-beta2\lib\netcore45\cirrious.mvvmcross.dll" HashGuid="d9f6257b-2e06-2073-fb08-c7039ed5ec6c" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.crosscore.3.1.1-beta2\lib\netcore45\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.plugin.json.3.1.1-beta2\lib\netcore45\cirrious.mvvmcross.plugins.json.dll" HashGuid="aff69b01-560c-6891-9074-18d24677b44b" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.1.1-beta2\lib\netcore45\cirrious.mvvmcross.windowsstore.dll" HashGuid="9c429cda-5e89-8bdc-6341-02321727cf62" />
+    <ReferenceAssembly PathName="d:\poc\bcat_tracker\mvvmcross poc\n-06-books\packages\mvvmcross.hottuna.plugin.json.3.1.1-beta2\lib\netcore45\newtonsoft.json.dll" HashGuid="95b21bf5-1335-4337-d80d-d737f1ddf1e7" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

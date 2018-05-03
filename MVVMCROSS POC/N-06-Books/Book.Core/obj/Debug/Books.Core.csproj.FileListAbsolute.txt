@@ -1,0 +1,9 @@
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Books.Core.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Books.Core.pdb
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Cirrious.CrossCore.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Cirrious.MvvmCross.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\bin\Debug\Newtonsoft.Json.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\obj\Debug\Books.Core.dll
+D:\POC\BCAT_Tracker\MVVMCROSS POC\N-06-Books\Book.Core\obj\Debug\Books.Core.pdb

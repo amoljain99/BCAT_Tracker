@@ -1,0 +1,4 @@
+BCAT_Tracker.Droid.MainActivity, BCAT_Tracker.Droid;md5b53196d1290bc9b97423975ec908ea18.MainActivity
+BCAT_Tracker.Droid.MainActivity, BCAT_Tracker.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b53196d1290bc9b97423975ec908ea18.MainActivity
+BCAT_Tracker.Droid.MainActivity;md5b53196d1290bc9b97423975ec908ea18.MainActivity
+bcat_tracker.droid.MainActivity;md5b53196d1290bc9b97423975ec908ea18.MainActivity

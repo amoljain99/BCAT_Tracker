@@ -7,7 +7,12 @@ namespace BCAT_Tracker.Core.ViewModels
     public class LoginViewModel : MvxViewModel
     {
         private readonly IDataService _dataService;
+        public override Task Initialize()
+        {
+            //TODO: Add starting logic here
 
+            return base.Initialize();
+        }
         public LoginViewModel(IDataService dataService)
         {
             this._dataService = dataService; 
