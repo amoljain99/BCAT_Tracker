@@ -14,8 +14,16 @@ namespace BCAT_Tracker.iOS.Views
     [Register ("CEDetailViewController")]
     partial class CEDetailViewController
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton btnLoadService { get; set; }
+
         void ReleaseDesignerOutlets ()
         {
+            if (btnLoadService != null) {
+                btnLoadService.Dispose ();
+                btnLoadService = null;
+            }
         }
     }
 }

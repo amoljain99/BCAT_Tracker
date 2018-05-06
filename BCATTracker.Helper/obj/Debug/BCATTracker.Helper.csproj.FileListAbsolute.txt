@@ -1,0 +1,7 @@
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\bin\Debug\BCATTracker.Helper.dll
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\bin\Debug\BCATTracker.Helper.pdb
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\obj\Debug\BCATTracker.Helper.csprojResolveAssemblyReference.cache
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\obj\Debug\BCATTracker.Helper.dll
+C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCATTracker.Helper\obj\Debug\BCATTracker.Helper.pdb

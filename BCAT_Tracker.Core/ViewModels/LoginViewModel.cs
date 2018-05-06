@@ -1,18 +1,14 @@
 ﻿using System.Threading.Tasks;
 using MvvmCross.Core.ViewModels;
 using BCAT_Tracker.Core.Models;
+using System.Windows.Input;
 
-namespace BCAT_Tracker.Core.ViewModels
+namespace BCAT_Tracker.Core 
 {
     public class LoginViewModel : MvxViewModel
     {
         private readonly IDataService _dataService;
-        public override Task Initialize()
-        {
-            //TODO: Add starting logic here
 
-            return base.Initialize();
-        }
         public LoginViewModel(IDataService dataService)
         {
             this._dataService = dataService; 
@@ -46,9 +42,21 @@ namespace BCAT_Tracker.Core.ViewModels
         {
             get
             {
-                return new MvxCommand(DoSave);
+               return   new MvxCommand(DoSave); 
             }
         }
+
+
+        public ICommand NavigateToSecondPageCommand
+        {
+            get
+            {
+                return new MvxCommand(() => {
+                    ShowViewModel<CEDetailViewModel>();
+                });
+            }
+        }
+
 
         public MvxCommand Load
         {

@@ -15,10 +15,10 @@ namespace BCAT_Tracker.iOS
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-            var set = this.CreateBindingSet<LoginViewController, Core.ViewModels.LoginViewModel>();
+            var set = this.CreateBindingSet<LoginViewController, Core.LoginViewModel>();
             set.Bind(txtUserName).To(vm => vm.UserName);
             set.Bind(txtPassword).To(vm => vm.Password);
-            set.Bind(btnSubmit).To(vm => vm.Save);
+            set.Bind(btnSubmit).To(vm => vm.NavigateToSecondPageCommand);
             set.Bind(imgLogo).To(vm => vm.Load);
             set.Apply();    
         }  

@@ -11,7 +11,7 @@ namespace BCAT_Tracker.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<ViewModels.LoginViewModel>();
+            RegisterAppStart<LoginViewModel>();
         }
     }
 }

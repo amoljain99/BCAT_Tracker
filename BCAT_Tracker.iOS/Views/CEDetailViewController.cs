@@ -1,10 +1,9 @@
-﻿using System;
-
-using UIKit;
-
+﻿using BCAT_Tracker.Core;
+using MvvmCross.Binding.BindingContext;
+using MvvmCross.iOS.Views; 
 namespace BCAT_Tracker.iOS.Views
 {
-    public partial class CEDetailViewController : UIViewController
+    public partial class CEDetailViewController : MvxViewController<CEDetailViewModel>
     {
         public CEDetailViewController() : base("CEDetailViewController", null)
         {
@@ -12,15 +11,22 @@ namespace BCAT_Tracker.iOS.Views
 
         public override void ViewDidLoad()
         {
-            base.ViewDidLoad();
-            // Perform any additional setup after loading the view, typically from a nib.
-        }
+            try
+            {
 
-        public override void DidReceiveMemoryWarning()
-        {
-            base.DidReceiveMemoryWarning();
-            // Release any cached data, images, etc that aren't in use.
-        }
+
+                base.ViewDidLoad();
+                var set = this.CreateBindingSet<CEDetailViewController,  CEDetailViewModel>();
+                set.Bind(btnLoadService).To(vm => vm.ServiceCall);
+                set.Apply();
+            }
+            catch(System.Exception ex)
+            {
+               var list =  ex.InnerException;
+            }
+
+            // Perform any additional setup after loading the view, typically from a nib.
+        } 
     }
 }
 
