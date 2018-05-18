@@ -168,9 +168,12 @@
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
     <None Include="AppDelegate.cs.txt" />
+    <InterfaceDefinition Include="Views\TableListExample\TableViewController.xib" />
+    <InterfaceDefinition Include="Views\TableListExample\TableViewCell.xib" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bootstrap\SqlitePluginBootstrap.cs" />
+    <Compile Include="Helpers\Dialog_iOS.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="Views\MainView.designer.cs" />
@@ -186,6 +189,14 @@
     <Compile Include="Views\CEViewController.designer.cs" />
     <Compile Include="Views\LoginViewController.cs" />
     <Compile Include="Views\LoginViewController.designer.cs" />
+    <Compile Include="Views\TableListExample\TableViewCell.cs" />
+    <Compile Include="Views\TableListExample\TableViewCell.designer.cs">
+      <DependentUpon>TableViewCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\TableListExample\TableViewController.cs" />
+    <Compile Include="Views\TableListExample\TableViewController.designer.cs">
+      <DependentUpon>TableViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BCAT_Tracker.Core\BCAT_Tracker.Core.csproj">

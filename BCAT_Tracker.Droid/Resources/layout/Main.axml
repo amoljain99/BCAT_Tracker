@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:local="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    >
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:background="#000000"
+        android:text="Call"
+        android:textColor="#ffffff"
+        android:textSize="25dp" 
+        android:clickable="true"
+        android:id="@+id/btnservice"
+            />
+
+
+  <Button
+       android:id="@+id/buttonNavigateToSecondPage"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:text="Navigate to second page"
+       local:MvxBind="Click ServiceCall" />
 </LinearLayout>

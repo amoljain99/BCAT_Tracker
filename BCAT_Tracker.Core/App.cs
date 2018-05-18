@@ -1,3 +1,4 @@
+using BCAT_Tracker.Core.ViewModels;
 using MvvmCross.Platform.IoC;
 
 namespace BCAT_Tracker.Core
@@ -11,7 +12,7 @@ namespace BCAT_Tracker.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<LoginViewModel>();
+            RegisterAppStart<TableViewModel>();
         }
     }
 }

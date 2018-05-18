@@ -1,5 +1,7 @@
 ﻿#region snippet_all
+using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -78,12 +80,98 @@ namespace HttpClientSample
 
         static void Main()
         {
-            RunAsync().GetAwaiter().GetResult();
+            //RunAsync().GetAwaiter().GetResult(); 
+            //MakeRequest<string>("", "POST").GetAwaiter().GetResult();
+            MakeRequest<string>("https://www.googleapis.com/books/v1/volumes?q={0}", "GET").GetAwaiter().GetResult();
+
+        }
+        
+        public static async Task MakeRequest<T>(string requestUrl, string verb )
+        {
+               
+            client.BaseAddress = new Uri("http://localhost:65264/");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+            
+            if (verb == "GET")
+            {
+                HttpResponseMessage response = await client.GetAsync(requestUrl);
+                if (response.IsSuccessStatusCode)
+                {
+                    var product = await response.Content.ReadAsAsync<T>();
+                }
+            }
+            else
+            {
+                Product prd = new Product
+                {
+                    Name = "Gizmo",
+                    Price = 100,
+                    Category = "Widgets"
+                };
+                try
+                {
+                    HttpResponseMessage response = await client.PostAsJsonAsync(
+                   "api/products", prd);
+                    response.EnsureSuccessStatusCode();
+                    var product = await response.Content.ReadAsAsync<T>();
+                    //successAction(product);
+                }
+                catch(Exception ex)
+                {
+                  var res =  ex.InnerException;
+                }
+            }
         }
 
-        #region snippet_run
-        #region snippet5
-        static async Task RunAsync()
+
+
+        public static async Task makecall<T>(string requestUrl, string verb)
+        {
+            client.BaseAddress = new Uri("https://reqres.in/");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+            if (verb == "GET")
+            {
+                HttpResponseMessage response = await client.GetAsync(requestUrl);
+                if (response.IsSuccessStatusCode)
+                {
+                    var product = await response.Content.ReadAsAsync<T>();
+                }
+            }
+            else
+            {
+
+                var columns = new Dictionary<string, string>
+            {
+                { "email", "Mathew@g.com"},
+                { "password", "Thompson"},
+
+            };
+
+                var prd = JsonConvert.SerializeObject(columns);
+
+                try
+                {
+                    HttpResponseMessage response = await client.PostAsJsonAsync(
+                   "api/register", prd);
+                    response.EnsureSuccessStatusCode();
+                    // var product = await response.Content.ReadAsAsync<T>();
+                    //successAction(product);
+                }
+                catch (Exception ex)
+                {
+                    var res = ex.InnerException;
+                }
+            }
+        }
+
+
+            #region snippet_run
+            #region snippet5
+            static async Task RunAsync()
         {
             // Update port # in the following line.
             //client.BaseAddress = new Uri("http://localhost:64195/");

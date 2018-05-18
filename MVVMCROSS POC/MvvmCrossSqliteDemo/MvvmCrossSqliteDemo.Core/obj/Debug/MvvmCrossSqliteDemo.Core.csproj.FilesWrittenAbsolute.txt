@@ -1,9 +1,0 @@
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCrossSqliteDemo.Core.pdb
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCrossSqliteDemo.Core.dll
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/obj/Debug/MvvmCrossSqliteDemo.Core.dll
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/obj/Debug/MvvmCrossSqliteDemo.Core.pdb
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCross.Platform.dll
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCross.Core.dll
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCross.Binding.dll
-/Users/neelamc23/BCAT_Tracker/MVVMCROSS POC/MvvmCrossSqliteDemo/MvvmCrossSqliteDemo.Core/bin/Debug/MvvmCross.Localization.dll

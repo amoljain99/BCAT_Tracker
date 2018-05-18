@@ -10,3 +10,13 @@ E:\Projects\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.csproj.CoreCompileInput
 E:\Projects\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.csproj.CopyComplete
 E:\Projects\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.exe
 E:\Projects\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.pdb
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\Api.Demo.exe.config
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\Api.Demo.exe
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\Api.Demo.pdb
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\Newtonsoft.Json.dll
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\System.Net.Http.Formatting.dll
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\Newtonsoft.Json.xml
+D:\POC\BCAT_Tracker\Api.Demo\bin\Debug\System.Net.Http.Formatting.xml
+D:\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.csprojResolveAssemblyReference.cache
+D:\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.exe
+D:\POC\BCAT_Tracker\Api.Demo\obj\Debug\Api.Demo.pdb

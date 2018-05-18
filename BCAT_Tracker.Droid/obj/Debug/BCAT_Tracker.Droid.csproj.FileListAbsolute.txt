@@ -1,34 +1,174 @@
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll.config
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.BCAT_Tracker.Droid.apk
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.BCAT_Tracker.Droid-Signed.apk
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLite-net.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Plugins.Sqlite.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.Formatting.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLitePCL.raw.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLitePCL.batteries.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLite-net.xml
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.Formatting.xml
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.csprojResolveAssemblyReference.cache
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.dll
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\android\bin\BCAT_Tracker.Droid.BCAT_Tracker.Droid.apk
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\splashscreen.xml
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\mainview.xml
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\main.xml
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\values\strings.xml
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\values\splashstyle.xml
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\drawable\splash.png
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\R.cs.flag
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\uploadflags.txt
-D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll
+D:\POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\BCAT_Tracker.Core.dll
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Android.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Android.Export.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\mscorlib.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Core.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Xml.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Xml.Linq.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Runtime.Serialization.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Microsoft.CSharp.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Security.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.ComponentModel.Composition.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Android.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Android.Export.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\mscorlib.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Core.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Xml.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Net.Http.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Xml.Linq.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Microsoft.CSharp.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Security.pdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.dll.mdb
 D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\BCAT_Tracker.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\BCAT_Tracker.Core.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Binding.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Binding.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Core.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Droid.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Localization.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Platform.dll.mdb
+D:\POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Platform.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll.config
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.BCAT_Tracker.Droid.apk
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.BCAT_Tracker.Droid-Signed.apk
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLite-net.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Plugins.Sqlite.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.Formatting.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLitePCL.raw.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLitePCL.batteries.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Binding.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Localization.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\MvvmCross.Platform.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\SQLite-net.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.Formatting.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.csprojResolveAssemblyReference.cache
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\BCAT_Tracker.Droid.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\android\bin\BCAT_Tracker.Droid.BCAT_Tracker.Droid.apk
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\splashscreen.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\mainview.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\layout\main.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\values\strings.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\values\splashstyle.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\res\drawable\splash.png
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\R.cs.flag
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\uploadflags.txt
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Microsoft.CSharp.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Android.Export.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Android.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\Mono.Security.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\mscorlib.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Net.Http.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Runtime.Serialization.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Xml.Linq.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\System.Xml.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Droid.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Core\bin\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Android.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Android.Export.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\mscorlib.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Xml.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Net.Http.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Microsoft.CSharp.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\Mono.Security.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\bin\Debug\BCAT_Tracker.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\BCAT_Tracker.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\BCAT_Tracker.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Binding.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Binding.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Droid.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Localization.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Platform.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.Droid\obj\Debug\linksrc\MvvmCross.Platform.Droid.dll.mdb

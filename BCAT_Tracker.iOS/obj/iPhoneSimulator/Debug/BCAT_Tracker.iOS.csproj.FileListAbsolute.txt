@@ -1,92 +1,51 @@
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe.config
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.iOS.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.batteries.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.raw.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.xml
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll.mdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.csprojResolveAssemblyReference.cache
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
-C:\Users\amol.band\Downloads\BCAT_Tracker-master\BCAT_Tracker-master\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe.config
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.iOS.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.batteries.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.raw.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll.config
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.xml
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.pdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll.mdb
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\optimized\
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.csprojResolveAssemblyReference.cache
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.csproj.CoreCompileInputs.cache
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.csproj.CopyComplete
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
-E:\Projects\POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe.config
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Plugins.Sqlite.iOS.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.Bson.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.batteries.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCL.raw.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Formatting.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.dll
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\BCAT_Tracker.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.Bson.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Platform.iOS.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Core.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.iOS.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Binding.iOS.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.pdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\MvvmCross.Localization.dll.mdb
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Formatting.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.Primitives.xml
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.csprojResolveAssemblyReference.cache
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.exe
+D:\POC\BCAT_Tracker POC\BCAT_Tracker\BCAT_Tracker.iOS\obj\iPhoneSimulator\Debug\BCAT_Tracker.iOS.pdb

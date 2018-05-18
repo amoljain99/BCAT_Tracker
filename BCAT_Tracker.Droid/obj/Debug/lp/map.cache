@@ -1,1 +1,17 @@
+BCAT_Tracker.Core
+MvvmCross.Binding
+MvvmCross.Binding.Droid
+MvvmCross.Core
+MvvmCross.Droid
+MvvmCross.Localization
+MvvmCross.Platform
+MvvmCross.Platform.Droid
 System.Runtime
+SQLite-net
+MvvmCross.Plugins.Sqlite
+Newtonsoft.Json
+System.Net.Http.Formatting
+SQLitePCL.raw
+SQLitePCL.batteries
+System.Resources.ResourceManager
+System.Diagnostics.Tools

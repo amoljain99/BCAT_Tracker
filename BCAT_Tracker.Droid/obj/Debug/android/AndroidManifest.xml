@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="BCAT_Tracker.Droid.BCAT_Tracker.Droid" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="BCAT_Tracker.Droid.BCAT_Tracker.Droid" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="21" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:label="BCAT_Tracker.Droid" android:name="md5b53196d1290bc9b97423975ec908ea18.MainActivity">
+  <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/splash" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="BCAT_Tracker.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5b53196d1290bc9b97423975ec908ea18.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:label="View for MainViewModel" android:name="md5eb5d10bdc24ed0756f4d1057a0db3a21.MainView" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="BCAT_Tracker.Droid.BCAT_Tracker.Droid.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

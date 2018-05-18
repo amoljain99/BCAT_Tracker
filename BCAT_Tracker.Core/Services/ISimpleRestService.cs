@@ -6,8 +6,9 @@ namespace Books.Core.Services
 {
     public interface ISimpleRestService
     {
+        void GetaData<T>(string requestUrl, string verb, Action<T> successAction, Action<Exception> errorAction);
         void GetAsync<T>(Action<T> successAction, Action<Exception> errorAction);
         void PostAsync<T>(object obj, Action<T> successAction, Action<Exception> errorAction);
-        void MakeRequest<T>(string requestUrl, string verb, Action<T> successAction, Action<Exception> errorAction);
+        void MakeRequest<T>(string requestUrl, string verb, Action<T> successAction, Action<Exception> errorAction,object prd);
     }
 }

@@ -107,6 +107,21 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "BCAT_Tracker.Droid.dll" comes first in this list. */
 		"BCAT_Tracker.Droid.dll",
+		"BCAT_Tracker.Core.dll",
+		"MvvmCross.Binding.dll",
+		"MvvmCross.Binding.Droid.dll",
+		"MvvmCross.Core.dll",
+		"MvvmCross.Droid.dll",
+		"MvvmCross.Localization.dll",
+		"MvvmCross.Platform.dll",
+		"MvvmCross.Platform.Droid.dll",
+		"SQLite-net.dll",
+		"SQLitePCL.raw.dll",
+		"SQLitePCL.batteries.dll",
+		"MvvmCross.Plugins.Sqlite.dll",
+		"Newtonsoft.Json.dll",
+		"System.Net.Http.Formatting.dll",
+		"System.Net.Http.Primitives.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
